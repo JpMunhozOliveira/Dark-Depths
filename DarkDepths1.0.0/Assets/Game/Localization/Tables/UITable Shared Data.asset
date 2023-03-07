@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UITable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UITable
+  m_TableCollectionNameGuidString: 5c2dc1e955bb973448ac9db82b765298
+  m_Entries:
+  - m_Id: 28073559228416
+    m_Key: ContinueBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34054171871576064
+    m_Key: ExitBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275008356352
+    m_Key: NewGameBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34369939347767296
+    m_Key: TextExitDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34333555115327488
+    m_Key: TextExitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34340428124160000
+    m_Key: TextGamePaused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34454123516952576
+    m_Key: TextLoseGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34362457107890176
+    m_Key: TextNewGameDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34472308597227520
+    m_Key: TextSettingsOptionsDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35593168909402112
+    m_Key: LoadingText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37687256949358592
+    m_Key: CollectTreasure
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1659300650477

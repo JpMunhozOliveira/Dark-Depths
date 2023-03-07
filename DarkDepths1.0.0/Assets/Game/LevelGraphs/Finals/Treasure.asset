@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8400baee4cafd34091c865089a167b2, type: 3}
+  m_Name: Treasure
+  m_EditorClassIdentifier: 
+  Connections:
+  - {fileID: 79686816451021986}
+  CorridorIndividualRoomTemplates:
+  - {fileID: 2649312287680236755, guid: f2e6296a46b2bf84fa2150476e24026a, type: 3}
+  - {fileID: 2649312287680236755, guid: 87b311045bd14954cbe7eb28e8cbcd29, type: 3}
+  CorridorRoomTemplateSets: []
+  DefaultIndividualRoomTemplates: []
+  DefaultRoomTemplateSets: []
+  Rooms:
+  - {fileID: 1875296498594453616}
+  - {fileID: 7715023834888074407}
+  EditorData:
+    PanOffset: {x: 34.626938, y: 14.109053}
+    Zoom: 0.9320653
+  RoomType: Edgar.Unity.Room
+  ConnectionType: Edgar.Unity.Connection
+--- !u!114 &79686816451021986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f692f83df7c1b5468af64edd22287dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  From: {fileID: 1875296498594453616}
+  To: {fileID: 7715023834888074407}
+--- !u!114 &1875296498594453616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8074dc491ddc34f4e83332d9eae76980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Position: {x: 320, y: 224}
+  Name: Entry
+  IndividualRoomTemplates:
+  - {fileID: 4872528143977449089, guid: a487c31bf6d97ae4e91c51519239f4fc, type: 3}
+  RoomTemplateSets: []
+--- !u!114 &7715023834888074407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8074dc491ddc34f4e83332d9eae76980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Position: {x: 320, y: 144}
+  Name: Treasure
+  IndividualRoomTemplates:
+  - {fileID: 5391333851630766935, guid: 451c2fd4f468389448fdaac0d6b2ce38, type: 3}
+  RoomTemplateSets: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu/StartMenu.unity
+    guid: 1f6ef63a040926d4bb187bda481947b9
+  - enabled: 1
+    path: Assets/Game/Scenes/Gameplay/Dungeon.unity
+    guid: cb7945aaf679c844897e80b20ea5bdd3
+  - enabled: 1
+    path: Assets/Game/Scenes/Gameplay/LobbyGame.unity
+    guid: 30958685de4376a42b6ca9e061895895
+  - enabled: 1
+    path: Assets/Game/Scenes/Gameplay/TreasureLevel.unity
+    guid: d2e97a269d1f35541a3fba22cd21e042
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d1fe4efd33f30fb44a1c3f70fc0dd63d, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 7aea70a119e43bc468e986598438704f, type: 2}

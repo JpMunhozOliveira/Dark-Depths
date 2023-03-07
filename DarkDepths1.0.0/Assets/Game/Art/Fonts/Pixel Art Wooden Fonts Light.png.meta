@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: 1ef82423b4aa5cd4cbe69e6acba3a6b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3295464068513959271
+    second: Pixel Art Wooden Fonts Light_0
+  - first:
+      213: 2056322653261394538
+    second: Pixel Art Wooden Fonts Light_1
+  - first:
+      213: -7195012803049568861
+    second: Pixel Art Wooden Fonts Light_2
+  - first:
+      213: -2937892867580647672
+    second: Pixel Art Wooden Fonts Light_3
+  - first:
+      213: -412259627828258354
+    second: Pixel Art Wooden Fonts Light_4
+  - first:
+      213: 1901325869101938114
+    second: Pixel Art Wooden Fonts Light_5
+  - first:
+      213: 4293873005914642617
+    second: Pixel Art Wooden Fonts Light_6
+  - first:
+      213: 2475386272870621686
+    second: Pixel Art Wooden Fonts Light_7
+  - first:
+      213: -3305352086008990189
+    second: Pixel Art Wooden Fonts Light_8
+  - first:
+      213: -175311944171425958
+    second: Pixel Art Wooden Fonts Light_9
+  - first:
+      213: -7583618023369519846
+    second: Pixel Art Wooden Fonts Light_10
+  - first:
+      213: 8182400541164735797
+    second: Pixel Art Wooden Fonts Light_11
+  - first:
+      213: 4952428331540867081
+    second: Pixel Art Wooden Fonts Light_12
+  - first:
+      213: 4557531004018893753
+    second: Pixel Art Wooden Fonts Light_13
+  - first:
+      213: 2567549214210527553
+    second: Pixel Art Wooden Fonts Light_14
+  - first:
+      213: 1006757191849902677
+    second: Pixel Art Wooden Fonts Light_15
+  - first:
+      213: -7028484573414201524
+    second: Pixel Art Wooden Fonts Light_16
+  - first:
+      213: 5356388359616465736
+    second: Pixel Art Wooden Fonts Light_17
+  - first:
+      213: -8819809126267318936
+    second: Pixel Art Wooden Fonts Light_18
+  - first:
+      213: -6519284131975237631
+    second: Pixel Art Wooden Fonts Light_19
+  - first:
+      213: 70584658995546758
+    second: Pixel Art Wooden Fonts Light_20
+  - first:
+      213: 4368308839804261154
+    second: Pixel Art Wooden Fonts Light_21
+  - first:
+      213: -5946322630541488952
+    second: Pixel Art Wooden Fonts Light_22
+  - first:
+      213: -7385072139408003343
+    second: Pixel Art Wooden Fonts Light_23
+  - first:
+      213: 8984218356998550955
+    second: Pixel Art Wooden Fonts Light_24
+  - first:
+      213: -3512319670534863042
+    second: Pixel Art Wooden Fonts Light_25
+  - first:
+      213: 1135241583365330109
+    second: Pixel Art Wooden Fonts Light_26
+  - first:
+      213: -3968091922486345038
+    second: Pixel Art Wooden Fonts Light_27
+  - first:
+      213: 4746677156331088559
+    second: Pixel Art Wooden Fonts Light_28
+  - first:
+      213: -5380936354864333903
+    second: Pixel Art Wooden Fonts Light_29
+  - first:
+      213: 8408617628822957427
+    second: Pixel Art Wooden Fonts Light_30
+  - first:
+      213: 1842604954804271983
+    second: Pixel Art Wooden Fonts Light_31
+  - first:
+      213: 3682401587408821280
+    second: Pixel Art Wooden Fonts Light_32
+  - first:
+      213: -3585933393009920096
+    second: Pixel Art Wooden Fonts Light_33
+  - first:
+      213: 4810076326250770764
+    second: Pixel Art Wooden Fonts Light_34
+  - first:
+      213: 8343834703990638952
+    second: Pixel Art Wooden Fonts Light_35
+  - first:
+      213: -5650251794706168444
+    second: Pixel Art Wooden Fonts Light_36
+  - first:
+      213: -7752313917042209356
+    second: Pixel Art Wooden Fonts Light_37
+  - first:
+      213: -6153595302699040645
+    second: Pixel Art Wooden Fonts Light_38
+  - first:
+      213: 8672972675317732422
+    second: Pixel Art Wooden Fonts Light_39
+  - first:
+      213: 6720172176951784821
+    second: Pixel Art Wooden Fonts Light_40
+  - first:
+      213: -8850725261469675013
+    second: Pixel Art Wooden Fonts Light_41
+  - first:
+      213: -1315044497803048711
+    second: Pixel Art Wooden Fonts Light_42
+  - first:
+      213: -995749548536001049
+    second: Pixel Art Wooden Fonts Light_43
+  - first:
+      213: 5454447213820492627
+    second: Pixel Art Wooden Fonts Light_44
+  - first:
+      213: 5731422737657338322
+    second: Pixel Art Wooden Fonts Light_45
+  - first:
+      213: 3272060486385805623
+    second: Pixel Art Wooden Fonts Light_46
+  - first:
+      213: -923904209327397015
+    second: Pixel Art Wooden Fonts Light_47
+  - first:
+      213: -8299703546200963051
+    second: Pixel Art Wooden Fonts Light_48
+  - first:
+      213: 6781781951081875376
+    second: Pixel Art Wooden Fonts Light_49
+  - first:
+      213: -5525684197635596866
+    second: Pixel Art Wooden Fonts Light_50
+  - first:
+      213: 6530919708609188731
+    second: Pixel Art Wooden Fonts Light_51
+  - first:
+      213: 5792228004625331568
+    second: Pixel Art Wooden Fonts Light_52
+  - first:
+      213: -6783616222831289880
+    second: Pixel Art Wooden Fonts Light_53
+  - first:
+      213: 2691395280830439240
+    second: Pixel Art Wooden Fonts Light_54
+  - first:
+      213: 6509639293461953486
+    second: Pixel Art Wooden Fonts Light_55
+  - first:
+      213: -2723615280007090187
+    second: Pixel Art Wooden Fonts Light_56
+  - first:
+      213: 1281157813756743355
+    second: Pixel Art Wooden Fonts Light_57
+  - first:
+      213: -7526460434534096676
+    second: Pixel Art Wooden Fonts Light_58
+  - first:
+      213: -3400494942681083009
+    second: Pixel Art Wooden Fonts Light_59
+  - first:
+      213: 8719432209831109421
+    second: Pixel Art Wooden Fonts Light_60
+  - first:
+      213: -6346245838456759553
+    second: Pixel Art Wooden Fonts Light_61
+  - first:
+      213: 6017131557707292822
+    second: Pixel Art Wooden Fonts Light_62
+  - first:
+      213: -2363032363665812223
+    second: Pixel Art Wooden Fonts Light_63
+  - first:
+      213: 2617309342910014379
+    second: Pixel Art Wooden Fonts Light_64
+  - first:
+      213: -8184283158743502596
+    second: Pixel Art Wooden Fonts Light_65
+  - first:
+      213: -9145136896010406607
+    second: Pixel Art Wooden Fonts Light_66
+  - first:
+      213: -8848590835193176243
+    second: Pixel Art Wooden Fonts Light_67
+  - first:
+      213: -4647048978112137491
+    second: Pixel Art Wooden Fonts Light_68
+  - first:
+      213: 781358091580244753
+    second: Pixel Art Wooden Fonts Light_69
+  - first:
+      213: 5156478227165617549
+    second: Pixel Art Wooden Fonts Light_70
+  - first:
+      213: -5320584189461582854
+    second: Pixel Art Wooden Fonts Light_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d86d53c17dbbd20800000000000000
+      internalID: 3295464068513959271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fb3bee86898c10800000000000000
+      internalID: 2056322653261394538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c7d7f9fd262c90800000000000000
+      internalID: -7195012803049568861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807a3b7a0028a37d0800000000000000
+      internalID: -2937892867580647672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9df008d0c574af0800000000000000
+      internalID: -412259627828258354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f416edcdd26a10800000000000000
+      internalID: 1901325869101938114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b85e2cbfb6e69b30800000000000000
+      internalID: 4293873005914642617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1e45433b65a5220800000000000000
+      internalID: 2475386272870621686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 125
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31676df4ac70122d0800000000000000
+      internalID: -3305352086008990189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 125
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f67c237ba219df0800000000000000
+      internalID: -175311944171425958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 125
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d4fc4669391c690800000000000000
+      internalID: -7583618023369519846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 125
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d8612a0f9bd8170800000000000000
+      internalID: 8182400541164735797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e215145f8ab440800000000000000
+      internalID: 4952428331540867081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b320632d4a9f3f30800000000000000
+      internalID: 4557531004018893753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1411a582864c1a320800000000000000
+      internalID: 2567549214210527553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552884bf458b8fd00800000000000000
+      internalID: 1006757191849902677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47655cd48ec57e90800000000000000
+      internalID: -7028484573414201524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0afd65d6b55a40800000000000000
+      internalID: 5356388359616465736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d861a345eb99580800000000000000
+      internalID: -8819809126267318936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10076c36f99d685a0800000000000000
+      internalID: -6519284131975237631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a85069f54caf000800000000000000
+      internalID: 70584658995546758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2235bb9deb95f9c30800000000000000
+      internalID: 4368308839804261154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 100
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc45be821b6a7da0800000000000000
+      internalID: -5946322630541488952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea3f95404f28990800000000000000
+      internalID: -7385072139408003343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53179cefa5eac70800000000000000
+      internalID: 8984218356998550955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3707246edbb14fc0800000000000000
+      internalID: -3512319670534863042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db41ebe843031cf00800000000000000
+      internalID: 1135241583365330109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ca1c9b618ee8c0800000000000000
+      internalID: -3968091922486345038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa639689b59fd140800000000000000
+      internalID: 4746677156331088559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb735905e21355b0800000000000000
+      internalID: -5380936354864333903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6412ce2961b470800000000000000
+      internalID: 8408617628822957427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbb70a17f329910800000000000000
+      internalID: 1842604954804271983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 75
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c56d9cbb48a1330800000000000000
+      internalID: 3682401587408821280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7be6104943c3ec0800000000000000
+      internalID: -3585933393009920096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4171b01fe2d0c240800000000000000
+      internalID: 4810076326250770764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 75
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86940fba4714bc370800000000000000
+      internalID: 8343834703990638952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858605dde54691b0800000000000000
+      internalID: -5650251794706168444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdc163e09f3a6490800000000000000
+      internalID: -7752313917042209356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708c13eca90a9aa0800000000000000
+      internalID: -6153595302699040645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6449bf262b69c5870800000000000000
+      internalID: 8672972675317732422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bcac6df8d24d50800000000000000
+      internalID: 6720172176951784821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf116819448eb2580800000000000000
+      internalID: -8850725261469675013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80e942ff500cde0800000000000000
+      internalID: -1315044497803048711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8142bf036e22f0800000000000000
+      internalID: -995749548536001049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb3e197d612bb40800000000000000
+      internalID: 5454447213820492627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d999af0d9a1a8f40800000000000000
+      internalID: 5731422737657338322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392e9e1da1b86d20800000000000000
+      internalID: 3272060486385805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676d844402ad23f0800000000000000
+      internalID: -923904209327397015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51844a3399781dc80800000000000000
+      internalID: -8299703546200963051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7046ac0cabd1e50800000000000000
+      internalID: 6781781951081875376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd0f2af73d053b0800000000000000
+      internalID: -5525684197635596866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739f386fdc72aa50800000000000000
+      internalID: 6530919708609188731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07533c18ea0226050800000000000000
+      internalID: 5792228004625331568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e950998cf0cbd1a0800000000000000
+      internalID: -6783616222831289880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9f009fb1c95520800000000000000
+      internalID: 2691395280830439240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb79b6a272e65a50800000000000000
+      internalID: 6509639293461953486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe95a4556c33ad0800000000000000
+      internalID: -2723615280007090187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbecf266e3697c110800000000000000
+      internalID: 1281157813756743355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 25
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd020979c14ac8790800000000000000
+      internalID: -7526460434534096676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 25
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735bf0cdd30fc0d0800000000000000
+      internalID: -3400494942681083009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232516b565a10970800000000000000
+      internalID: 8719432209831109421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadb75a80b9de7a0800000000000000
+      internalID: -6346245838456759553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690afe78545218350800000000000000
+      internalID: 6017131557707292822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10592fac592d43fd0800000000000000
+      internalID: -2363032363665812223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36673fafc825420800000000000000
+      internalID: 2617309342910014379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0b1ed44d59b6e80800000000000000
+      internalID: -8184283158743502596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_66
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1353bf23272f51180800000000000000
+      internalID: -9145136896010406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9889648d733580800000000000000
+      internalID: -8848590835193176243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b8c5539d528fb0800000000000000
+      internalID: -4647048978112137491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11384036b01f7da00800000000000000
+      internalID: 781358091580244753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1e3e90ad7f8740800000000000000
+      internalID: 5156478227165617549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Wooden Fonts Light_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb259d8edc7926b0800000000000000
+      internalID: -5320584189461582854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel Art Wooden Fonts Light_1: 2056322653261394538
+      Pixel Art Wooden Fonts Light_14: 2567549214210527553
+      Pixel Art Wooden Fonts Light_42: -1315044497803048711
+      Pixel Art Wooden Fonts Light_50: -5525684197635596866
+      Pixel Art Wooden Fonts Light_58: -7526460434534096676
+      Pixel Art Wooden Fonts Light_69: 781358091580244753
+      Pixel Art Wooden Fonts Light_56: -2723615280007090187
+      Pixel Art Wooden Fonts Light_36: -5650251794706168444
+      Pixel Art Wooden Fonts Light_10: -7583618023369519846
+      Pixel Art Wooden Fonts Light_28: 4746677156331088559
+      Pixel Art Wooden Fonts Light_17: 5356388359616465736
+      Pixel Art Wooden Fonts Light_18: -8819809126267318936
+      Pixel Art Wooden Fonts Light_51: 6530919708609188731
+      Pixel Art Wooden Fonts Light_35: 8343834703990638952
+      Pixel Art Wooden Fonts Light_39: 8672972675317732422
+      Pixel Art Wooden Fonts Light_63: -2363032363665812223
+      Pixel Art Wooden Fonts Light_27: -3968091922486345038
+      Pixel Art Wooden Fonts Light_3: -2937892867580647672
+      Pixel Art Wooden Fonts Light_15: 1006757191849902677
+      Pixel Art Wooden Fonts Light_40: 6720172176951784821
+      Pixel Art Wooden Fonts Light_48: -8299703546200963051
+      Pixel Art Wooden Fonts Light_54: 2691395280830439240
+      Pixel Art Wooden Fonts Light_62: 6017131557707292822
+      Pixel Art Wooden Fonts Light_38: -6153595302699040645
+      Pixel Art Wooden Fonts Light_8: -3305352086008990189
+      Pixel Art Wooden Fonts Light_5: 1901325869101938114
+      Pixel Art Wooden Fonts Light_41: -8850725261469675013
+      Pixel Art Wooden Fonts Light_2: -7195012803049568861
+      Pixel Art Wooden Fonts Light_7: 2475386272870621686
+      Pixel Art Wooden Fonts Light_32: 3682401587408821280
+      Pixel Art Wooden Fonts Light_25: -3512319670534863042
+      Pixel Art Wooden Fonts Light_22: -5946322630541488952
+      Pixel Art Wooden Fonts Light_13: 4557531004018893753
+      Pixel Art Wooden Fonts Light_71: -5320584189461582854
+      Pixel Art Wooden Fonts Light_70: 5156478227165617549
+      Pixel Art Wooden Fonts Light_29: -5380936354864333903
+      Pixel Art Wooden Fonts Light_53: -6783616222831289880
+      Pixel Art Wooden Fonts Light_6: 4293873005914642617
+      Pixel Art Wooden Fonts Light_43: -995749548536001049
+      Pixel Art Wooden Fonts Light_30: 8408617628822957427
+      Pixel Art Wooden Fonts Light_55: 6509639293461953486
+      Pixel Art Wooden Fonts Light_61: -6346245838456759553
+      Pixel Art Wooden Fonts Light_11: 8182400541164735797
+      Pixel Art Wooden Fonts Light_31: 1842604954804271983
+      Pixel Art Wooden Fonts Light_34: 4810076326250770764
+      Pixel Art Wooden Fonts Light_20: 70584658995546758
+      Pixel Art Wooden Fonts Light_44: 5454447213820492627
+      Pixel Art Wooden Fonts Light_52: 5792228004625331568
+      Pixel Art Wooden Fonts Light_0: 3295464068513959271
+      Pixel Art Wooden Fonts Light_68: -4647048978112137491
+      Pixel Art Wooden Fonts Light_65: -8184283158743502596
+      Pixel Art Wooden Fonts Light_19: -6519284131975237631
+      Pixel Art Wooden Fonts Light_26: 1135241583365330109
+      Pixel Art Wooden Fonts Light_66: -9145136896010406607
+      Pixel Art Wooden Fonts Light_9: -175311944171425958
+      Pixel Art Wooden Fonts Light_23: -7385072139408003343
+      Pixel Art Wooden Fonts Light_4: -412259627828258354
+      Pixel Art Wooden Fonts Light_33: -3585933393009920096
+      Pixel Art Wooden Fonts Light_57: 1281157813756743355
+      Pixel Art Wooden Fonts Light_12: 4952428331540867081
+      Pixel Art Wooden Fonts Light_45: 5731422737657338322
+      Pixel Art Wooden Fonts Light_37: -7752313917042209356
+      Pixel Art Wooden Fonts Light_49: 6781781951081875376
+      Pixel Art Wooden Fonts Light_47: -923904209327397015
+      Pixel Art Wooden Fonts Light_67: -8848590835193176243
+      Pixel Art Wooden Fonts Light_21: 4368308839804261154
+      Pixel Art Wooden Fonts Light_64: 2617309342910014379
+      Pixel Art Wooden Fonts Light_60: 8719432209831109421
+      Pixel Art Wooden Fonts Light_46: 3272060486385805623
+      Pixel Art Wooden Fonts Light_59: -3400494942681083009
+      Pixel Art Wooden Fonts Light_24: 8984218356998550955
+      Pixel Art Wooden Fonts Light_16: -7028484573414201524
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
