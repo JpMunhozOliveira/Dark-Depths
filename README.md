@@ -19,9 +19,11 @@ Este é um projeto de desenvolvimento de um jogo incrível chamado [Nome do Jogo
 This is a game developed for the completion of my course, where I conducted research on game design for mobile games. The game is based on the Bomberman game and can be downloaded at this link: https://jaoophez.itch.io/dark-depths. It has some bugs as it is not completely finished.
 
 # Ferramentas Utilizadas
-- Linguagem de Programação: [Nome da Linguagem]
-- Framework: [Nome do Framework (se aplicável)]
-- Bibliotecas: [Lista de bibliotecas utilizadas]
+- Linguagem de Programação: Csharp;
+
+#### Plugins:
+- [Edgar - Unity](https://ondrejnepozitek.github.io/Edgar-Unity/docs/introduction/)
+- [Behavior Bricks](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816)
 
 # Instalação
 
@@ -35,4 +37,4 @@ Wiki: [Link para a wiki do projeto, se houver]
 Problemas: [Link para problemas/bugs conhecidos, se houver]
 
 # Licença
-Este projeto está licenciado sob a [Licença XYZ]. Leia o arquivo [LICENSE] para obter mais informações.
+This project is licensed under the [MIT License]. Please refer this [link](https://opensource.org/license/mit/) for more information.
