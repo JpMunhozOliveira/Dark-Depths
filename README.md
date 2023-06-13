@@ -13,10 +13,15 @@
   </a>
 </p>
 
-# Descrição
+# Description
 
-Este é um projeto de desenvolvimento de um jogo incrível chamado [Nome do Jogo]. O objetivo deste README é fornecer uma visão geral do projeto, destacar suas características principais e fornecer instruções sobre como configurar e executar o jogo em seu ambiente local.
-This is a game developed for the completion of my course, where I conducted research on game design for mobile games. The game is based on the Bomberman game and can be downloaded at this link: https://jaoophez.itch.io/dark-depths. It has some bugs as it is not completely finished.
+This game is part of my final paper, and it takes place entirely in caverns. As the player progresses, they face increasingly strong enemies and new challenges in their quest to find hidden riches.
+
+The gameplay is based on Roguelike mechanics, with randomly generated levels, permanent death, and gradual character evolution as the player advances. It also heavily draws from the classic game Bomberman 3, featuring labyrinthine sections with destructible blocks and monsters. As the player progresses, they discover power-ups that can help them on their journey.
+
+The player takes on the role of Ruschel, a character inspired by legendary figures from adventure films.
+
+[Dark Depths](https://jaoophez.itch.io/dark-depths)
 
 # Ferramentas Utilizadas
 - Linguagem de Programação: Csharp;
@@ -36,5 +41,5 @@ Documentação: [Link para documentação, se houver]
 Wiki: [Link para a wiki do projeto, se houver]
 Problemas: [Link para problemas/bugs conhecidos, se houver]
 
-# Licença
+# License
 This project is licensed under the [MIT License]. Please refer this [link](https://opensource.org/license/mit/) for more information.
