@@ -25,8 +25,6 @@ The gameplay is based on Roguelike mechanics, with randomly generated levels, pe
 
 The player takes on the role of Ruschel, a character inspired by legendary figures from adventure films.
 
-[Dark Depths](https://jaoophez.itch.io/dark-depths)
-
 ## Tools Used
 - Linguagem de Programação: Csharp;
 - UNity Android SDK Setup
@@ -36,6 +34,26 @@ The player takes on the role of Ruschel, a character inspired by legendary figur
 - [Behavior Bricks](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816)
 
 # Instalação
+
+Welcome to the installation of my game! Follow the instructions below to install the game on your mobile device using the Itch.io app:
+
+### Step 1: Locating and Downloading the Game
+- Click on this link:  [Dark Depths](https://jaoophez.itch.io/dark-depths)
+- Scroll down on the game page until you find the download section.
+- Tap on the "Download" button to start the download and installation process.
+- You will find different download options (Currently, the game only works on Android).
+- Tap on the button corresponding to your device.
+- Wait for the installation process to be completed.
+  
+### Step 2: Installing the Game
+- After the download is complete, tap on the downloaded file to initiate the installation process.
+- If your device requests permission to install apps from unknown sources, enable the "Unknown sources" option in the security settings.
+- Follow the on-screen instructions to complete the game installation on your device.
+- Wait for the installation to be completed.
+
+### Step 3: Starting the Game
+- After the installation, locate the game icon on your home screen or in the app list.
+- Tap on the game icon to launch it.
 
 # Como Jogar
 
