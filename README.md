@@ -11,6 +11,10 @@
   <a href="#">
     <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/csharp/csharp-original.svg" alt="Csharp" width="70" height="70">
   </a>
+  <a href="#">
+    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/tools/android/android-plain.svg" alt="Android" width="70" height="70">
+  </a>
+ 
 </p>
 
 # Description
@@ -23,8 +27,9 @@ The player takes on the role of Ruschel, a character inspired by legendary figur
 
 [Dark Depths](https://jaoophez.itch.io/dark-depths)
 
-# Ferramentas Utilizadas
+## Tools Used
 - Linguagem de Programação: Csharp;
+- UNity Android SDK Setup
 
 #### Plugins:
 - [Edgar - Unity](https://ondrejnepozitek.github.io/Edgar-Unity/docs/introduction/)
