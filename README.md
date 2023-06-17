@@ -26,16 +26,24 @@ The gameplay is based on Roguelike mechanics, with randomly generated levels, pe
 The player takes on the role of Ruschel, a character inspired by legendary figures from adventure films.
 
 ## Tools Used
-- Linguagem de Programação: Csharp;
-- UNity Android SDK Setup
+- Unity Android SDK Setup
 
-#### Plugins:
-- [Edgar - Unity](https://ondrejnepozitek.github.io/Edgar-Unity/docs/introduction/)
-- [Behavior Bricks](https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816)
+<h3 align="center">Plugins</h3>
 
-# Instalação
+<table>
+  <tr>
+    <td align="center" width="220" height="50"> <a href="https://ondrejnepozitek.github.io/Edgar-Unity/docs/introduction/">Edgar</a></td>
+    <td>Is a Unity plugin for procedural generation of 2D dungeons and aims to give game designers a complete control over generated levels.</td>
+  </tr>
+  <tr>
+    <td align="center" height="50"><a href="https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816">Behavior Bricks</a></td>
+    <td>Is a state-of-the-art engine for Behavior Trees along with an intuitive visual editor.</td>
+  </tr>
+</table>
 
-Welcome to the installation of my game! Follow the instructions below to install the game on your mobile device using the Itch.io app:
+# Installation
+
+Follow the instructions below to install the game on your mobile device using the Itch.io app:
 
 ### Step 1: Locating and Downloading the Game
 - Click on this link:  [Dark Depths](https://jaoophez.itch.io/dark-depths)
