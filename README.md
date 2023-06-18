@@ -50,8 +50,6 @@ Follow the instructions below to install the game on your mobile device using th
 - Scroll down on the game page until you find the download section.
 - Tap on the "Download" button to start the download and installation process.
 - You will find different download options (Currently, the game only works on Android).
-- Tap on the button corresponding to your device.
-- Wait for the installation process to be completed.
   
 ### Step 2: Installing the Game
 - After the download is complete, tap on the downloaded file to initiate the installation process.
