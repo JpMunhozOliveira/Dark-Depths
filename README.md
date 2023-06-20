@@ -61,14 +61,5 @@ Follow the instructions below to install the game on your mobile device using th
 - After the installation, locate the game icon on your home screen or in the app list.
 - Tap on the game icon to launch it.
 
-# Como Jogar
-
-# Recursos Adicionais
-Aqui estão alguns recursos adicionais relacionados a este projeto:
-
-Documentação: [Link para documentação, se houver]
-Wiki: [Link para a wiki do projeto, se houver]
-Problemas: [Link para problemas/bugs conhecidos, se houver]
-
 # License
 This project is licensed under the [MIT License]. Please refer this [link](https://opensource.org/license/mit/) for more information.
