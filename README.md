@@ -25,10 +25,17 @@ The gameplay is based on Roguelike mechanics, with randomly generated levels, pe
 
 The player takes on the role of Ruschel, a character inspired by legendary figures from adventure films.
 
-## Tools Used
-- Unity Android SDK Setup
 
-<h3 align="center">Plugins</h3>
+<h2 align="center">Tools Used</h2>
+
+<table>
+  <tr>
+    <td align="center" width="220" height="50"> <a href="https://docs.unity3d.com/540/Documentation/Manual/android-sdksetup.html">Unity Android SDK</a></td>
+    <td>Whether you're building an Android application in Unity or programming it from scratch, you need to set up the Android SDK (software development kit) before you can build and run any code on your Android device.</td>
+  </tr>
+</table>
+
+<h2 align="center">Plugins</h2>
 
 <table>
   <tr>
