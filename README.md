@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/UnityProjects/DarkDepthsLogo.png" alt="FlappyBird Logo" width="306">
+    <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/DarkDepthsLogo.png" alt="FlappyBird Logo" width="306">
   </a>
   <br>
   <a href="#">
