@@ -1,18 +1,10 @@
 [⬅ Go Back](https://github.com/JpMunhozOliveira)
 
-<p align="center">
-  
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/DarkDepthsLogo.png?raw=true" alt="FlappyBird Logo" width="306">
-  
+<div align="center">
+  <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/DarkDepthsLogo.png?raw=true" alt="FlappyBird Logo" width="306"></a>
   <br>
-  
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/tools/unity/unity.svg?raw=true" alt="Unity" width="70" height="70">
-
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/programming/csharp/csharp-original.svg?raw=true" alt="Csharp" width="70" height="70">
-
-  <img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/icons/tools/android/android-plain.svg?raw=true" alt="Android" width="70" height="70">
-  
-</p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs" /></a>
+</div>
 
 # Description
 
