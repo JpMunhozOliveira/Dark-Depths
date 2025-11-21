@@ -1,7 +1,7 @@
 [⬅ Go Back](https://github.com/JpMunhozOliveira)
 
 <div align="center">
-  <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/DarkDepthsLogo.png?raw=true" alt="FlappyBird Logo" width="306"></a>
+  <a href="#"><img src="https://github.com/JpMunhozOliveira/JpMunhozOliveira/blob/main/resources/images/Projects/DarkDepthsLogo.png?raw=true" alt="Dark Depths Logo" heigth="100"></a>
   <br>
   <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs" /></a>
 </div>
